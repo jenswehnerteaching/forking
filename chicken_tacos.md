@@ -2,6 +2,7 @@
 
 - Minced chicken
 - Pineapple
+- Salt
 - Corn
 - Pickled chilis and vegetables
 - Caramelized red onions
