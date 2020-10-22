@@ -1,7 +1,4 @@
-
-
 # Chicken taco
-
 
 - Minced chicken
 - Pineapple
