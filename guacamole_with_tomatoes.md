@@ -1,3 +1,3 @@
 ## Enhanced guacamole
-- Add tomatoes to gucamole.
+- Add tomatoes to guacamole.
 - Guacamole goes into taco
